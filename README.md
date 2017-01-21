@@ -11,8 +11,9 @@
 
 [1]:http://www.baidu.com "baidu"
 [2]:http://www.yahoo.com "yahoo"
+[3]:http://www.sina.com.cn "google"
 
-[2]
+* [google][3]
 
 ``` c
 #include <stdio.h>
@@ -30,9 +31,9 @@ int main(int argc, char **argv)
 软泥上的青荇， 油油的在水底招摇； 在康河的柔波里， 我甘心做一条水草！  
 
 
-|姓名|分数|
-|-|-|
-|小明|73|
-|小红|34|
-|小力|90|
+|姓名|分数|  
+|-|-|  
+|小明|73|  
+|小红|34|  
+|小力|90|  
 
